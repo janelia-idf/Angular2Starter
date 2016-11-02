@@ -8,3 +8,18 @@ License:
 
     BSD
 
+##Installation
+
+###Install Node.js and npm
+
+[Node.js](https://nodejs.org/en/download/)
+
+```shell
+sudo npm install npm -g
+```
+
+###Install packages
+
+```shell
+npm install
+```
