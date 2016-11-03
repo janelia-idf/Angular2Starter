@@ -1,4 +1,4 @@
-#Angular2Starter
+#angular2-quickstart
 
 Authors:
 
