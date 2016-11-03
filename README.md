@@ -8,6 +8,12 @@ License:
 
     BSD
 
+##Build and Run the Application
+
+```shell
+npm start
+```
+
 ##Installation
 
 ###Install Node.js and npm

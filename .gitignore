@@ -43,3 +43,8 @@ jspm_packages
 # Output of 'npm pack'
 *.tgz
 
+#Angular 2
+typings
+app/**/*.js
+app/**/*.map
+bower_components
